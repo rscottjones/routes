@@ -451,7 +451,7 @@ Simplification is applied after the GPX loads and does not modify the source fil
 
 ## GPX Files
 
-GPX files must be hosted on the same domain as your blog to avoid browser CORS restrictions. The easiest way to do this is to upload them via the Micro.blog media library (**Posts → Edit → file icon**).
+GPX files must be hosted on the same domain as your blog to avoid browser CORS restrictions. Upload them via **Uploads** in the Micro.blog navigation, then copy the URL to use in your data file.
 
 GPX export is available in:
 - **Strava** — Activity page → overflow menu → Export GPX
